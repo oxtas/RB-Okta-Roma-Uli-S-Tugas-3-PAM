@@ -69,7 +69,7 @@ const List = () => {
         extraData={selectedId}
       />
 
-      <Text style={styles.copyright}> COPYRIGHT Sophia Nouriska - 119140027 </Text>
+      <Text style={styles.copyright}> COPYRIGHT Okta Roma Uli S - 119140083 </Text>
     </View>
   );
 };
